@@ -21,6 +21,7 @@ class UserProfile(BaseModel):
     doctor_hospital:Optional[str] = None
     fcm_token:      Optional[str] = None
     location:       Optional[dict] = None
+    role:           Optional[str] = "PATIENT"
 
 class UserProfileUpdate(BaseModel):
     full_name:    Optional[str] = None
@@ -35,3 +36,4 @@ class UserProfileUpdate(BaseModel):
     doctor_hospital:Optional[str] = None
     fcm_token:      Optional[str] = None
     location:       Optional[dict] = None
+    role:           Optional[str] = None
