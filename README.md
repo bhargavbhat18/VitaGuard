@@ -1,14 +1,6 @@
 # VitalGuard
 # Smart Health Monitoring Ecosystem
 
-## **Team git commit**
-We are a group of developers from **GCEM (Gopalan College of Engineering and Management)**.
-
-* **Likith D T** (Team Lead)
-* **Bhargav Bhat**
-* **Keerthan R**
-* **Manoj V**
-
 ## Overview
 
 VitalGuard is a comprehensive AI-powered smart health monitoring system designed to simulate, track, and analyze patient vitals in real-time. The system provides predictive insights, emergency alerts, and seamless communication between patients, doctors, and hospitals.
